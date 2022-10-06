@@ -1,0 +1,1 @@
+"# syndex-investor-animated" 
