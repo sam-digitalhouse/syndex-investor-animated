@@ -67,10 +67,7 @@
                     </tspan>
                   </text>
                   <text id="for_buying_and_selling_shares." class="section-text" data-name="for buying and selling shares." transform="translate(77.669 248.011)" fill="#fff" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
-                    <tspan x="0" y="0">for your investors to</tspan>
-                  </text>
-                  <text id="investors to buy and sell shares." class="section-text" data-name="investors to buy and sell shares." transform="translate(77.669 273.011)" fill="#fff" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
-                    <tspan x="0" y="0">buy and sell shares.</tspan>
+                    <tspan x="10" y="0">for your investors to buy and sell shares.</tspan>
                   </text>
                 </g>
                 <g id="hicon">
@@ -116,20 +113,17 @@
               <g id="cap-grp" class="section-grp animated">
                 <path id="cap" d="M891.83,328.08,775.28,387.39l-119.95,15-17.17,5.87a187.2,187.2,0,0,1-65.21,200l10.79,15.63.22.47L634,732.68l91.68,92.8c112.63-82.11,185.82-215.05,185.82-365.1A451.53,451.53,0,0,0,891.83,328.08Z" transform="translate(-8.53 -8.91)" style="fill: #92d4de"/>
                 <g id="cap-txt-grp" data-name="Group" transform="translate(-10,-10)">
-                  <text id="Access_to_an_" class="section-text" data-name="Access to an " transform="translate(633.904 579.578)" fill="#189bb1" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
+                        <text id="Access_to_an_" class="section-text" data-name="Access to an " transform="translate(633.904 579.578)" fill="#189bb1" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
                     <tspan x="0" y="0">Support your capital raising
                     </tspan>
                   </text>
                   <text id="investment-ready_" class="section-text" data-name="investment-ready " transform="translate(603.601 604.998)" fill="#189bb1" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
-                    <tspan x="0" y="0">with online applications
+                    <tspan x="0" y="0">with online applications and AML
                     </tspan>
                   </text>
                   <text id="community_and_" class="section-text" data-name="community and " transform="translate(595.605 630.419)" fill="#189bb1" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
-                    <tspan x="0" y="0">and AML screening,
-                    </tspan>
-                  </text>
-                  <text id="secondary_markets." class="section-text" data-name="secondary markets." transform="translate(662.245 655.839)" fill="#189bb1" font-size="20" font-family="Gilroy-Medium, Gilroy" font-weight="500">
-                    <tspan x="0" y="0">all within your control.</tspan>
+                    <tspan x="0" y="0">screening,
+                    all within your control.</tspan>
                   </text>
                 </g>
                 <g id="hicon">
