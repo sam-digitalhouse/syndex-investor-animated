@@ -17,15 +17,7 @@
                   </text>
                 </g>
                 <g id="hicon">
-                  <text id="inv-heading" class="section-heading" transform="translate(48.45 538.87) rotate(0.7)" style="font-size: 26px;fill: #fff;font-family: Gilroy-Medium, Gilroy, 'Roboto', sans-serif;font-weight: 500">I<tspan x="6.32" y="0" style="letter-spacing: -0.006986177884615385em">n</tspan>
-                    <tspan x="20.8" y="0" style="letter-spacing: -0.020000751201923076em">ves</tspan>
-                    <tspan x="59.77" y="0" style="letter-spacing: -0.028001051682692308em">t</tspan>
-                    <tspan x="68.87" y="0">or
-                    </tspan>
-                    <tspan x="99.55" y="0" style="letter-spacing: -0.024996243990384616em">R</tspan>
-                    <tspan x="114.79" y="0">ela</tspan>
-                    <tspan x="152.13" y="0" style="letter-spacing: -0.002986027644230769em">t</tspan>
-                    <tspan x="161.88" y="0" style="letter-spacing: -0.000018780048076923078em">ions</tspan>
+                  <text id="inv-heading" class="section-heading" transform="translate(48.45 538.87) rotate(0.7)" style="font-size: 26px;fill: #fff;font-family: Gilroy-Medium, Gilroy, 'Roboto', sans-serif;font-weight: 500">Investor Relations
                   </text>
                   <g id="inv-icon">
                     <path d="M136.14,513.78V501.27l-2.44-1.83v-8.23s1.83-3.35,5.48-3.35a6,6,0,0,1,5.19,3.35" transform="translate(-8.53 -8.91)" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
@@ -88,8 +80,7 @@
                     <path d="M310.53,155.46a8.47,8.47,0,0,1-6.75-3.43,1,1,0,0,0-1.53,0,8.36,8.36,0,0,1-13.5,0,1,1,0,0,0-.76-.38,1,1,0,0,0-.77.38,8.36,8.36,0,0,1-13.5,0,1,1,0,0,0-1.53,0,8.44,8.44,0,0,1-6.75,3.43,1,1,0,0,0,0,1.92A10.28,10.28,0,0,0,273,154.1a10.25,10.25,0,0,0,15,0,10.24,10.24,0,0,0,15,0,10.3,10.3,0,0,0,7.52,3.28" transform="translate(-8.53 -8.91)" style="fill: #fff"/>
                   </g>
 
-                  <text id="liq-heading" class="section-heading" transform="matrix(1, 0.01, -0.01, 1, 230.24, 181.38)" style="font-size: 26px;fill: #fff;font-family: Gilroy-Medium, Gilroy, 'Roboto', sans-serif;font-weight: 500">Liquidi<tspan x="77.43" y="0" style="letter-spacing: 0.00800030048076923em">t</tspan>
-                    <tspan x="87.46" y="0">y</tspan>
+                  <text id="liq-heading" class="section-heading" transform="matrix(1, 0.01, -0.01, 1, 230.24, 181.38)" style="font-size: 26px;fill: #fff;font-family: Gilroy-Medium, Gilroy, 'Roboto', sans-serif;font-weight: 500">Liquidity
                   </text>
                 </g>
               </g>
@@ -110,14 +101,7 @@
                 </g>
                 <g id="hicon">
                   <text id="reg-heading" class="section-heading" transform="translate(310.31 755.81) rotate(0.7)" style="font-size: 26px;fill: #fff;font-family: Gilroy-Medium, Gilroy, 'Roboto', sans-serif;font-weight: 500">
-                    <tspan style="letter-spacing: -0.024996243990384616em">R</tspan>
-                    <tspan x="15.24" y="0" style="letter-spacing: -0.0009765625em">e</tspan>
-                    <tspan x="30.37" y="0" style="letter-spacing: -0.000018780048076923078em">g</tspan>
-                    <tspan x="46.83" y="0" style="letter-spacing: -0.000995342548076923em">i</tspan>
-                    <tspan x="52.52" y="0" style="letter-spacing: -0.019981971153846152em">s</tspan>
-                    <tspan x="63.91" y="0">t</tspan>
-                    <tspan x="73.74" y="0" style="letter-spacing: 0.010986328125em">r</tspan>
-                    <tspan x="82.55" y="0">y Management</tspan>
+                              Registry Management
                   </text>
                   <g id="reg-icon">
                     <rect x="417" y="682.97" width="50.28" height="38.98" rx="8.31" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 2px"/>
@@ -150,16 +134,7 @@
                 </g>
                 <g id="hicon">
                   <text id="cap-heading" class="section-heading" transform="translate(653.78 538.87) rotate(0.7)" style="font-size: 26px;fill: #189bb1;font-family: Gilroy-Medium, Gilroy, 'Roboto', sans-serif;font-weight: 500">
-                    <tspan style="letter-spacing: -0.004995492788461538em">C</tspan>
-                    <tspan x="19.08" y="0">api</tspan>
-                    <tspan x="57.72" y="0" style="letter-spacing: -0.028001051682692308em">t</tspan>
-                    <tspan x="66.82" y="0">al
-                    </tspan>
-                    <tspan x="95.5" y="0" style="letter-spacing: -0.024996243990384616em">R</tspan>
-                    <tspan x="110.73" y="0">a</tspan>
-                    <tspan x="127.19" y="0" style="letter-spacing: -0.000995342548076923em">i</tspan>
-                    <tspan x="132.88" y="0" style="letter-spacing: -0.004995492788461538em">s</tspan>
-                    <tspan x="144.66" y="0">ing</tspan>
+                        Capital Raising
                   </text>
                   <g id="cap-icon">
                     <path d="M734.84,484.13a4.59,4.59,0,0,0-2.31,4c0,3.75,4,4.32,4,4.32" transform="translate(-8.53 -8.91)" style="fill: none;stroke: #189bb1;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
