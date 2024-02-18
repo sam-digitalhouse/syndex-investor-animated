@@ -168,13 +168,13 @@
                 .section-heading {font-size: 26px;fill: #fff;font-family: 'Gilroy-Medium', 'Gilroy', 'Roboto', sans-serif;font-weight: 500;}
                 #hicon {
                     transform: translateY(40px);
-                    transition:ease all .5s;
+                    transition:ease all .3s;
                     -webkit-transform: translateY(40px);
-                    -webkit-transition:ease all .5s;
+                    -webkit-transition:ease all .3s;
                 }
                 .section-grp {}
                 .section-grp:hover  #hicon {  transform: translateY(0px); -webkit-transform: translateY(0px);}
-                .section-grp:hover .section-text {opacity:1;height:initial;transition:all .5s ease-out .5s;-webkit-transition:all .5s ease-out .5s;}
+                .section-grp:hover .section-text {opacity:1;height:initial;transition:all .3s ease-out;-webkit-transition:all .3s ease-out;}
                 #investors-grp {opacity:0;
                   animation-name: fadeIn;
                   animation-duration: 5s;
